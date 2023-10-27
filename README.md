@@ -1,5 +1,6 @@
 # Oracle-Cloud-Infrastructure-for-Data-Science
-Here I tried to compile all the steps required for running the data science model in the Oracle Cloud Infrastructure
+Here I tried to compile all the steps required for running the data science model in the Oracle Cloud Infrastructure.
+This may be usefull for beginners
 
 ### Configuring a Data Science Tenancy
 
