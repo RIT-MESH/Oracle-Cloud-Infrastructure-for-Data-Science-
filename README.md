@@ -56,6 +56,9 @@ You can create and run model deployments using the Console, the OCI Python SDK, 
 1. Creating a Container Instance [Click here](https://docs.oracle.com/en-us/iaas/data-science/using/models-about.htm)
 2. Creating a Model Deployment  [Click here](https://docs.oracle.com/en-us/iaas/data-science/using/model_dep_create.htm)
 
+Video Tutorial [Click here](https://www.youtube.com/watch?v=fBrD226vFl4&list=PLKCk3OyNwIzv6CWMhvqSB_8MLJIZdO80L&index=7)
+
+
 ### Invoking a Model Deployment
 Invoking a model deployment means that you can pass feature vectors or data samples to the predict endpoint, and then the model returns predictions for those data samples.\
 1.Invoking a Model Deployment [Click here](https://docs.oracle.com/en-us/iaas/data-science/using/model-dep-invoke.htm)
