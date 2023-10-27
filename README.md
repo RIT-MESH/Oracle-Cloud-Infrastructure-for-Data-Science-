@@ -47,6 +47,8 @@ After you store a Data Science model in the model catalog, it can be deployed as
  
 5. Importing a Large Model Artifact[Click here](https://docs.oracle.com/en-us/iaas/data-science/using/large-model-artifact-import.htm#large-model-artifact-export)
 
+Video Tutorial [Click here](https://www.youtube.com/watch?v=WqjGz7Xckrs&list=PLKCk3OyNwIzv6CWMhvqSB_8MLJIZdO80L&index=12)
+
 ### Next step is Creating a Model Deployment
 After you store a Data Science model in the model catalog, it can be deployed as an HTTP endpoint as model deployment.
 Ensure that while creating the tanancy you have created the necessary policies, authentication, and authorization for model deployments.
