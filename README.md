@@ -69,7 +69,7 @@ Invoking a model deployment means that you can pass feature vectors or data samp
 1.Invoking a Model Deployment [Click here](https://docs.oracle.com/en-us/iaas/data-science/using/model-dep-invoke.htm)
 
 
-Official OCI data science AI samples [Click here](https://github.com/oracle-samples/oci-data-science-ai-samples/tree/main)
+## Official OCI data science AI samples [Click here](https://github.com/oracle-samples/oci-data-science-ai-samples/tree/main)
 
 
 
