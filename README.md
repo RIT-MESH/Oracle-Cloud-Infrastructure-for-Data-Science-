@@ -1,4 +1,6 @@
 # Oracle-Cloud-Infrastructure-for-Data-Science
+Here I tried to compile all the steps required for running the data science model in the Oracle Cloud Infrastructure
+
 ### Configuring a Data Science Tenancy
 
 First we need to create a Tanancy.  You can think of the tenancy as your account,
